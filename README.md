@@ -1,23 +1,10 @@
 <a name="readme-top">SET UP LINTERS AND CREATE PULL REQUEST</a>
 
-
-<div align="center">
-
-  <img src="images/images.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-
-</div>
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 [Hello Microverse] <a name="https://zbahati.github.io/Hello-Microverse/">visit website</a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse]** is a web application that help us to set up the linters for the project that we will use to test the project.
 
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
 #### this project have  one section that  is h1 with the message Hello Microverse.
 
 
@@ -39,9 +26,6 @@
 
 <!-- GETTING STARTED -->
 
-
-
-> Describe how a new developer could make use of your project.
 to get start with this testing for new developer we could first start with installing the following things linters,lighthouse, .hintrc,stylelintrc.json,
 
 ### Prerequisites
@@ -112,6 +96,9 @@ Example:
 
 <!-- FUTURE FEATURES -->
 
+## html-makeup-feature
+## style-feature
+## Fixing-bugs-feature
 
 
 ## 📝 License <a name="license"></a>
