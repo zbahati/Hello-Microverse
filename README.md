@@ -1,12 +1,15 @@
 <a name="readme-top">SET UP LINTERS AND CREATE PULL REQUEST</a>
 
+<!-- PROJECT DESCRIPTION -->
+
 # 📖 [Hello Microverse] <a name="https://zbahati.github.io/Hello-Microverse/">visit website</a>
+
+> Describe your project in 1 or 2 sentences.
 
 **[Hello Microverse]** is a web application that help us to set up the linters for the project that we will use to test the project.
 
 
 #### this project have  one section that  is h1 with the message Hello Microverse.
-
 
 <!-- Features -->
 
@@ -23,9 +26,7 @@
 - [Live Demo Link](https://zbahati.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
-
 to get start with this testing for new developer we could first start with installing the following things linters,lighthouse, .hintrc,stylelintrc.json,
 
 ### Prerequisites
@@ -43,27 +44,6 @@ Clone this repository to your desired folder:
 Use the command for clone the report
 https://github.com/zbahati/Hello-Microverse.git
 
-<!--
-Example commands:
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-
-
-### Run tests
-
-You need to push the project to the github then the system will make the test
-First you need to create branch by using
-git checkout -b branch-name,
-then use the following command to push you branch
-
-- git add .
-- git commit -m 'add your message'
-- git push
-
 ### Deployment
 
 You can deploy this project using GitHub by going on
@@ -71,13 +51,6 @@ You can deploy this project using GitHub by going on
 2.pages
 3. publish the page
 
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -95,10 +68,19 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
+ [ ] **[html-makeup-feature]**
+- [ ] **[style-feature]**
+- [ ] **[Fixing-bugs-Feature]**
 
-## html-makeup-feature
-## style-feature
-## Fixing-bugs-feature
+## 🤝 Contributing <a name="contributing"></a>
+Microverse Reviewers help me to Add new Features,new  neccessary files and change or delete unnecessary files
+Microverse students help me to setup the project and fixing some issues regarding the setup
+
+#### ⭐️ Show your support <a name="support"></a>
+Thank you for using our linter setup project!
+Your support is greatly appreciated and helps us continue to improve this project.
+Here are three ways you can support us:
+
 
 
 ## 📝 License <a name="license"></a>
