@@ -1,25 +1,13 @@
 <a name="readme-top">SET UP LINTERS AND CREATE PULL REQUEST</a>
 
-
-<div align="center">
-
-  <img src="images/images.png" alt="logo" width="140"  height="auto" />
-  <br/>
-
-
-</div>
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="https://zbahati.github.io/Hello-Microverse/">visit website</a>
 
-> Describe your project in 1 or 2 sentences.
+**[Hello Microverse]**
+is a web application that help us to set up the linters for the project that we will use to test the project.
 
-**[Hello Microverse]** is a web application that help us to set up the linters for the project that we will use to test the project.
-
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 #### this project have  one section that  is h1 with the message Hello Microverse.
-
 
 <!-- Features -->
 
@@ -36,10 +24,6 @@
 - [Live Demo Link](https://zbahati.github.io/Hello-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
-
-
 
 > Describe how a new developer could make use of your project.
 to get start with this testing for new developer we could first start with installing the following things linters,lighthouse, .hintrc,stylelintrc.json,
@@ -59,27 +43,6 @@ Clone this repository to your desired folder:
 Use the command for clone the report
 https://github.com/zbahati/Hello-Microverse.git
 
-<!--
-Example commands:
-```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
-
-
-
-### Run tests
-
-You need to push the project to the github then the system will make the test
-First you need to create branch by using
-git checkout -b branch-name,
-then use the following command to push you branch
-
-- git add .
-- git commit -m 'add your message'
-- git push
-
 ### Deployment
 
 You can deploy this project using GitHub by going on
@@ -87,13 +50,6 @@ You can deploy this project using GitHub by going on
 2.pages
 3. publish the page
 
-<!--
-Example:
-
-```sh
-
-```
- -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -111,7 +67,23 @@ Example:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
+ [ ] **[html-makeup-feature]**
+- [ ] **[style-feature]**
+- [ ] **[Fixing-bugs-Feature]**
 
+## 🤝 Contributing <a name="contributing"></a>
+Microverse Reviewers help me to Add new Features,new  neccessary files and change or delete unnecessary files
+Microverse students help me to setup the project and fixing some issues regarding the setup
+
+#### ⭐️ Show your support <a name="support"></a>
+Thank you for using our linter setup project!
+Your support is greatly appreciated and helps us continue to improve this project.
+Here are three ways you can support us:
+
+Star the project on GitHub to show your appreciation
+Contribute to the project by submitting bug reports or feature requests
+Spread the word by telling your friends and colleagues about our project
+Thank you for your support!
 
 
 ## 📝 License <a name="license"></a>
